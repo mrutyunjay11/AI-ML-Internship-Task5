@@ -17,7 +17,7 @@ Understand model interpretability through **Decision Trees**, **Random Forests**
 -> Matplotlib  
 -> Graphviz  
 
-## 🚀 Project Flow
+## Project Flow
 
 ### Step 1 : Load Dataset
 Used **Heart Disease Dataset** (Kaggle).  
